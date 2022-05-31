@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-**FabioDefilippo/FabioDefilippo** is an Ethical Hacker and indipendent developer.
+✨**FabioDefilippo/FabioDefilippo**✨ is an Ethical Hacker and indipendent developer.
 
 Here are some ideas to get you started:
 
