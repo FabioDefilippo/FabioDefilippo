@@ -1,5 +1,5 @@
 ```
-fabio@github: whoami
+fabio@github:~$ whoami
 
 FabioDefilippo/FabioDefilippo
 is an Ethical Hacker and indipendent developer.
