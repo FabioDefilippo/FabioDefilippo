@@ -1,10 +1,7 @@
 ```
 fabio@github:~$ whoami
 
-FabioDefilippo/FabioDefilippo
-is an Ethical Hacker and indipendent developer.
-
-Here are some ideas to get you started:
+Fabio Defilippo is an Ethical Hacker and indipendent developer.
 
 - 🔭 I’m currently working on many projects!
 - 🌱 I’m currently learning everything!
